@@ -1,2 +1,2 @@
-# github-leaderboard
+# GitHub Leaderboard
 GitHub Leaderboard
